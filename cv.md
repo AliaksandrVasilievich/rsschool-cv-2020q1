@@ -1,4 +1,4 @@
-![Alex's pfoto] (blob:https://web.telegram.org/d0724bc6-107f-47e3-be38-f69c3402f7b2)
+![Alex's pfoto](blob:https://web.telegram.org/d0724bc6-107f-47e3-be38-f69c3402f7b2)
 
 1. #Aliaksandr Kucharavenka
  - Date of birth: 22/11/1991

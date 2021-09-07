@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: Calibri;
+}
+a{
+    text-decoration: none;
+}
+.photo{
+    max-width: 1200px;
+    margin:auto;
+}
+header{
+    margin: 20px;
+    align-items: center;
+}
+.avatar{
+    width: 400px;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.name{
+    text-align: center;
+}
+.name h1{
+    font-size: 1.5em;
+    font-weight: 600px;
+}
+.dateOfBirth{
+    padding:20px;
+}
+.dateOfBirth ul{
+    margin-left: 20px;
+}
+.contacts {
+    padding:20px;
+}
+.contacts ul{
+    margin-left: 20px;
+}
+.summary{
+    padding:20px;
+}
+.skills{
+    padding: 20px;
+}
+.skills p{
+    text-align: justify;
+}
+.education{
+    padding: 20px;
+}
+.education ul{
+    margin-left: 20px;
+}
+.langLevel{
+    padding:20px;
+}
+footer{
+    height: 80px;
+    display:grid;
+    grid-template-columns: auto repeat(2,80px);
+    grid-template-rows: 80px;
+    justify-items: center;
+    align-items: center;
+}
+footer img{
+    width: 90%;
+}
